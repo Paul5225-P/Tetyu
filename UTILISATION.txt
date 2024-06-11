@@ -1,0 +1,10 @@
+Bonjour et bienvenue sur le programme Tetyu,
+Ce programme permet de crypter des messages simplement...
+
+1) Installer Python 3 sur votre PC (MacOS conseiller)
+
+2) Diriger vous avec le Terminal dans le dossier contenant le fichier "tetyu.py"
+
+3) Exécuter le en faisant la commande "python3 tetyu.py"
+
+4) Si vous rencontrez le moindre problème, contactez moi via Discord : paul5225_
